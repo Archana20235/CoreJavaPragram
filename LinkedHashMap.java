@@ -1,0 +1,6 @@
+/**
+ * LinkedHashMap
+ */
+public class LinkedHashMap<> {
+
+}
